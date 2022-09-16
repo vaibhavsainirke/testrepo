@@ -49,11 +49,11 @@
     padding-right: 0%;
     margin-bottom: 3%;
 }
-@media only screen and (max-width: 576px) {
+/* @media only screen and (max-width: 576px) {
     .carousel-img-size {
      
     }
-  } 
+  }  */
 .section2{
     height: 400px;
 }
